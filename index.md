@@ -1,9 +1,1 @@
-<iframe sandbox="allow-scripts allow-pointer-lock allow-same-origin allow-forms" scrolling="no" frameborder="0" style="width: 100%; height: 100%" src="https://flash.7k7k.com/cms/cms10/20210224/1004579842/16/index.html"></iframe>
-<style>
-body {
-margin-top:0;
-margin-left:0;
-margin-right:0;
-margin-bottom:0;
-}
- </style>
+<div style="text-align: center;"><iframe frameborder="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://html5.gamedistribution.com/rvvASMiM/740caa9e42874d5fb421755060c124e5/?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tLzc0MGNhYTllNDI4NzRkNWZiNDIxNzU1MDYwYzEyNGU1LyIsInBhcmVudERvbWFpbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidG9wRG9tYWluIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwidmVyc2lvbiI6IjEuMS4zOSJ9" style="height: 600px; width: 480px;"></iframe>
